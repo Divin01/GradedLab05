@@ -40,7 +40,7 @@ This is a fifth gradedLab React Native application that implements a mobile task
 <img src="./screenshot04.PNG" alt="App Screenshot" width="200"/>
 
 5. Error Message for Empty Input  
-   <img src="./screenshot05.PNG" alt="Empty Input Error Screenshot" width="200"/>
+<img src="./screenshot05.PNG" alt="Empty Input Error Screenshot" width="200"/>
 
 ## Features
 
